@@ -1,10 +1,10 @@
-# 🏙️ Neighborhood Resource Sharing Platform (NearShare)
+# 🏙️ Neighborhood Resource Sharing Platform
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Frontend](https://img.shields.io/badge/frontend-React%20%7C%20Vite-61DAFB.svg)
 ![Backend](https://img.shields.io/badge/backend-Spring%20Boot-6DB33F.svg)
 
-Welcome to **NearShare** — a modern, community-driven platform designed to make neighborhood resource sharing seamless, secure, and intuitive. Whether you need a drill for a weekend project or want to lend out your unused camping gear, NearShare connects you with your neighbors!
+Welcome to the **Neighborhood Resource Sharing Platform** — a modern, community-driven platform designed to make neighborhood resource sharing seamless, secure, and intuitive. Whether you need a drill for a weekend project or want to lend out your unused camping gear, this platform connects you with your neighbors!
 
 ---
 
